@@ -10,4 +10,4 @@ Este projeto é uma API REST desenvolvida para a atividade prática do módulo 6
 - Execute a aplicação e acesse a URL `http://localhost:8080/swagger-ui/index.html`
 
 ## Resultado obtido (Documentação Swagger)
-![Api-doc-ads](https://github.com/giovanesouza/atv_mod6_Springdoc-SwaggerUI/assets/108561182/48ee48f8-2ff7-43de-be15-74209c79febd)
+![Api-doc-ads](https://raw.githubusercontent.com/ViHugo21/API-REST/main/image.png)
